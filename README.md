@@ -74,6 +74,4 @@ if you want to use debugger like gdb-peda, you need to deal with the deps yourse
 ### windbgx/windbg
 ![windbgx](./img/windbgx.png)
 
-### refs
-1. https://github.com/masthoon/pwintools
-2. https://github.com/hakril/PythonForWindows
+
